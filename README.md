@@ -3,6 +3,7 @@ A collection of ABC format abc files for use in Starbound, LOTRO, Vintage Story,
 
 
 Big thanks to 4321ba for doing the work of ripping the noteblock music from the game, and making a midi repository of his work.
+https://github.com/4321ba/Wynncraft_Noteblock_OST
 
 and also to the abcMIDI package, which is used as a converter for these files.
 https://abc.sourceforge.net/abcMIDI/original/
